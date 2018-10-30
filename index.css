@@ -87,6 +87,7 @@ input[id='list']:checked ~ .settings > label[for='list']
 
 .cat-name
 {
+    height: 60px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
